@@ -1,9 +1,7 @@
 import MovieApplication from "./MovieApplcation";
 
 function App() {
-    return (
-        <MovieApplication />
-    )
+    return <MovieApplication />
 }
 
-export default App;
+export default App
